@@ -1,0 +1,7 @@
+1.Copy the json file that you downloaded from the Drive project into the src/main/resources file.
+	private static final String CREDENTIALS_FILE_PATH = "/client.json"; 
+Also rename the file.
+--------------------------------------------------
+2. Copy the file you want to upload into your project.
+	java.io.File filePath = new java.io.File ("/ postup.jpg");
+Change the file name.
